@@ -36,7 +36,7 @@ trading_bot/
 
 ### 1. Clone and Navigate
 ```bash
-git clone https://github.com/yourusername/binance-futures-bot.git
+git clone https://github.com/brainiac-star/binance-futures-bot.git
 cd binance-futures-bot
 ```
 
@@ -111,8 +111,9 @@ Status: NEW, Order ID: 4459791837
 
 ### 🌐 UI Screenshot 
 ```
-![alt text](image-2.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/de79ba70-305f-4a48-a171-e9abc1b2ce5f)
+![image](https://github.com/user-attachments/assets/f0f7bccf-9f37-48ca-8ad9-c83ab3cbfa5a)
+
 ```
 ---
 
