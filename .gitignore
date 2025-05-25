@@ -1,0 +1,8 @@
+# Ignore API config
+config.py
+
+# Ignore virtual environment
+venv/
+
+# Ignore logs
+logs/

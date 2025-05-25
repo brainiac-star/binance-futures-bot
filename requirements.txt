@@ -1,0 +1,2 @@
+python-binance==1.0.17
+streamlit==1.33.0
